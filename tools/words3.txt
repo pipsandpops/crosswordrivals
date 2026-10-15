@@ -1,0 +1,480 @@
+# longer everyday words
+ABOUT|Roughly||1
+ABOVE|Over||1
+ACTOR|Film star||1
+ADULT|Grown-up||1
+AFTER|Later than||1
+AGAIN|Once more||1
+AGREE|Say yes||1
+ALARM|Wake-up bell|23f0|1
+ALIEN|From space|1f47d|1
+ALIVE|Living||1
+ANGEL|Heavenly being|1f47c|1
+ANGRY|Mad||1
+ANKLE|Foot joint||1
+APRIL|Spring month||1
+ARROW|Bow shot|1f3f9|1
+AWAKE|Not asleep||1
+BADGE|Pin emblem||1
+BASIC|Simple||1
+BEGIN|Start||1
+BENCH|Park seat||1
+BIRTH|Being born||1
+BLACK|Darkest hue||1
+BLADE|Knife edge||1
+BLANK|Empty||1
+BLAST|Explosion||2
+BLEND|Mix||1
+BLIND|Can't see||1
+BLOCK|Cube||1
+BLOOM|Flower||1
+BOARD|Plank||1
+BONUS|Extra reward||1
+BRAIN|Thinker|1f9e0|1
+BRAVE|Fearless||1
+BRICK|Wall block|1f9f1|1
+BRIDE|Wedding lady|1f470|1
+BRIEF|Short||1
+BRING|Fetch||1
+BROWN|Chocolate hue||1
+BRUSH|Paint tool|1f58c|1
+BUILD|Construct||1
+CABIN|Small hut||1
+CABLE|Wire||1
+CHAIN|Linked rings|26d3|2
+CHALK|Board writer||1
+CHARM|Appeal||1
+CHART|Graph||1
+CHASE|Pursue||1
+CHEAP|Low cost||1
+CHECK|Verify||1
+CHEEK|Face side||1
+CHEER|Applaud||1
+CHEST|Treasure box||1
+CHIEF|Leader||1
+CHILD|Kid|1f9d2|1
+CLEAN|Not dirty||1
+CLEAR|Transparent||1
+CLIMB|Go up||1
+CLOSE|Shut||1
+COACH|Trainer||1
+COAST|Seashore||1
+CORAL|Reef stuff||2
+COUCH|Sofa||1
+COUNT|Number off||1
+COURT|Tennis area||1
+COVER|Lid||1
+CRANE|Lifting machine||2
+CRASH|Collision||1
+CRAZY|Mad||1
+CREAM|Milk top||1
+CRISP|Crunchy||1
+CROSS|X mark||1
+CROWD|Big group||1
+CRUMB|Bread bit||2
+CURVE|Bend||1
+CYCLE|Ride a bike||1
+DAILY|Every day||1
+DANCE|Boogie|1f483|1
+DEPTH|Deepness||1
+DIARY|Daily journal||1
+DIRTY|Not clean||1
+DOZEN|Twelve||1
+DRAFT|First version||2
+DRAIN|Plug hole||1
+DREAM|Sleep vision||1
+DRILL|Borer||1
+DRINK|Sip||1
+DRIVE|Steer a car||1
+EARLY|Before time||1
+EIGHT|Two fours||1
+ELBOW|Arm joint||1
+EMPTY|Nothing inside||1
+ENJOY|Like||1
+ENTER|Go in||1
+EQUAL|Same||1
+ERROR|Mistake||1
+EVENT|Occasion||1
+EVERY|Each||1
+EXTRA|More||1
+FAIRY|Tiny magic one|1f9da|1
+FAITH|Belief||1
+FALSE|Not true||1
+FAULT|Mistake||1
+FEAST|Big meal||1
+FENCE|Yard border||1
+FEVER|High temperature||1
+FIELD|Meadow||1
+FIFTY|Half a hundred||1
+FIGHT|Battle||1
+FINAL|Last||1
+FLAME|Fire tongue||1
+FLASH|Quick light||1
+FLOAT|Stay on water||1
+FLOOR|Ground level||1
+FOCUS|Concentrate||1
+FORCE|Power||1
+FRAME|Picture border|1f5bc|1
+FRESH|New||1
+FRONT|Forward part||1
+FROST|Ice crystals||1
+FRUIT|Apple, e.g.||1
+FUNNY|Comic||1
+GHOST|Spook|1f47b|1
+GIANT|Huge one||1
+GLASS|Drinking cup||1
+GLOBE|World ball|1f310|1
+GRADE|School mark||1
+GRAIN|Cereal seed|1f33e|1
+GRAND|Magnificent||1
+GREAT|Excellent||1
+GREEN|Grass hue||1
+GROUP|Team||1
+GUARD|Protector||1
+GUESS|Estimate||1
+GUEST|Visitor||1
+GUIDE|Lead||1
+HABIT|Routine||1
+HAPPY|Joyful||1
+HEART|Love symbol|2764|1
+HEAVY|Weighty||1
+HOBBY|Pastime||1
+HONEY|Bee nectar||1
+HOTEL|Inn|1f3e8|1
+HUMAN|Person||1
+IMAGE|Picture||1
+INDEX|Book list||2
+JELLY|Wobbly dessert||1
+JEWEL|Gem|1f48e|1
+JUDGE|Court leader||1
+KNOCK|Rap on door||1
+LABEL|Tag||1
+LARGE|Big||1
+LASER|Light beam||1
+LATER|Afterwards||1
+LAUGH|Ha ha||1
+LAYER|Coat||1
+LEARN|Study||1
+LEMON|Tart fruit|1f34b|1
+LEVEL|Flat||1
+LIGHT|Not heavy||1
+LIMIT|Boundary||1
+LOCAL|Nearby||1
+LOOSE|Not tight||1
+LUCKY|Fortunate||1
+LUNCH|Midday meal||1
+MAGIC|Wizardry|1fa84|1
+MAJOR|Main||1
+MARCH|Spring month||1
+MATCH|Fire stick||1
+MAYBE|Perhaps||1
+MAYOR|City head||1
+METAL|Iron, e.g.||1
+MIDST|Middle||2
+MINOR|Small||1
+MODEL|Example||1
+MONEY|Cash|1f4b0|1
+MONTH|About 30 days||1
+MOTOR|Engine||1
+MUSIC|Tunes|1f3b6|1
+NERVE|Courage||2
+NEVER|Not ever||1
+NIGHT|After dusk||1
+NOBLE|Grand and good||1
+NOISE|Racket||1
+NORTH|Compass top||1
+NURSE|Hospital helper||1
+OFFER|Propose||1
+OFTEN|Many times||1
+ORDER|Command||1
+OTHER|Different||1
+OWNER|Proprietor||1
+PAINT|Wall coating|1f3a8|1
+PANEL|Board||1
+PAPER|Writing sheet||1
+PARTY|Celebration|1f389|1
+PEACE|No war|262e|1
+PEARL|Oyster gem||1
+PHOTO|Picture||1
+PIECE|Part||1
+PILOT|Flies a plane||1
+PLACE|Spot||1
+PLAIN|Simple||1
+PLANT|Grow it|1fab4|1
+POINT|Dot||1
+POWER|Strength||1
+PRICE|Cost||1
+PRIDE|Self-respect||1
+PRIZE|Award||1
+PROUD|Pleased||1
+PUPIL|Student||1
+QUEEN|King's wife|1f478|1
+QUICK|Fast||1
+QUIET|Silent||1
+RADAR|Detects planes||2
+RAISE|Lift||1
+RANGE|Scope||1
+RAPID|Fast||1
+REACH|Arrive at||1
+READY|Prepared||1
+REPLY|Answer||1
+RIGHT|Correct||1
+RIVER|Stream||1
+ROBOT|Machine man|1f916|1
+ROUND|Circular||1
+ROUTE|Path||1
+ROYAL|Kingly||1
+SAUCE|Ketchup, e.g.||1
+SCALE|Weighing tool||1
+SCENE|View||1
+SCORE|Points||1
+SENSE|Feeling||1
+SEVEN|Days in a week||1
+SHADE|Shadow||1
+SHAPE|Form||1
+SHARE|Divide||1
+SHARP|Keen edge||1
+SHELF|Book rack||1
+SHELL|Beach find|1f41a|1
+SHINE|Glow||1
+SHORT|Not tall||1
+SHOUT|Yell||1
+SIGHT|Vision||1
+SKILL|Talent||1
+SLEEP|Rest at night|1f634|1
+SLICE|Thin piece||1
+SMALL|Little||1
+SMART|Clever||1
+SMELL|Scent||1
+SMILE|Happy face|1f642|1
+SMOKE|From fire||1
+SOLID|Firm||1
+SOUND|Noise||1
+SOUTH|Compass bottom||1
+SPACE|Outer void||1
+SPARE|Extra||1
+SPEAK|Talk||1
+SPEED|Velocity||1
+SPELL|Magic words||1
+SPEND|Use money||1
+SPICE|Seasoning||1
+SPORT|Game||1
+STAFF|Workers||1
+STAGE|Play platform||1
+STAIR|Step||1
+STAMP|Postage sticker||1
+STAND|Get up||1
+START|Begin||1
+STEAM|Hot vapour||1
+STEEL|Strong metal||1
+STICK|Twig||1
+STILL|Motionless||1
+STONE|Rock|1faa8|1
+STORE|Shop||1
+STORY|Tale||1
+STRAW|Drinking tube||1
+STUDY|Learn||1
+STYLE|Fashion||1
+SUNNY|Bright day||1
+SWEET|Sugary||1
+SWING|Playground seat||1
+SWORD|Knight's blade|1f5e1|1
+TASTE|Sense of the tongue||1
+TEACH|Educate||1
+TEETH|Chewers|1f9b7|1
+THANK|Show gratitude||1
+THICK|Wide||1
+THING|Object||1
+THINK|Ponder||1
+THREE|Trio||1
+THROW|Toss||1
+THUMB|Short finger|1f44d|1
+TIGHT|Snug||1
+TIRED|Sleepy||1
+TITLE|Name||1
+TODAY|This day||1
+TOOTH|Biter|1f9b7|1
+TOPIC|Subject||1
+TORCH|Flashlight|1f526|1
+TOTAL|Sum||1
+TOUCH|Feel||1
+TOWEL|Bath cloth||1
+TOWER|Tall building||1
+TRACK|Path||1
+TRADE|Exchange||1
+TRAIL|Path||1
+TRICK|Prank||1
+TRUST|Believe||1
+TRUTH|Fact||1
+TWICE|Two times||1
+UNCLE|Aunt's husband||1
+UNDER|Below||1
+UNTIL|Up to||1
+UPPER|Higher||1
+URBAN|City-like||2
+USUAL|Normal||1
+VALUE|Worth||1
+VIDEO|Clip|1f4f9|1
+VISIT|Go see||1
+VOICE|Speech sound||1
+WAGON|Cart||1
+WASTE|Throw away||1
+WHEAT|Bread grain||1
+WHEEL|Round turner||1
+WHITE|Snow hue||1
+WHOLE|Complete||1
+WOMAN|Lady||1
+WORLD|Earth||1
+WORRY|Fret||1
+WRITE|Pen it||1
+WRONG|Incorrect||1
+YOUNG|Not old||1
+YOUTH|Young age||1
+ACTION|Deed||1
+ANIMAL|Creature||1
+ANSWER|Reply||1
+ARTIST|Painter|1f9d1|1
+AUTUMN|Fall season|1f342|1
+BEAUTY|Prettiness||1
+BOTTLE|Glass flask|1f37e|1
+BRIDGE|River crossing|1f309|1
+BRIGHT|Shining||1
+BUTTON|Shirt fastener||1
+CANDLE|Wick light||1
+CASTLE|King's fort|1f3f0|1
+CHANCE|Luck||1
+CHANGE|Alter||1
+CIRCLE|Round shape||1
+CLEVER|Smart||1
+CORNER|Angle||1
+COUSIN|Aunt's child||1
+DANGER|Peril||1
+DINNER|Evening meal||1
+DOCTOR|Medic|1fa7a|1
+DRAGON|Fire beast|1f409|1
+ENERGY|Power||1
+ENGINE|Motor||1
+FAMILY|Parents and kids||1
+FAMOUS|Well known||1
+FATHER|Dad||1
+FINGER|Hand digit||1
+FLIGHT|Plane trip||1
+FOLDER|File holder|1f4c1|1
+FRIEND|Pal||1
+FROZEN|Iced||1
+FUTURE|Tomorrow||1
+GOLDEN|Like gold||1
+GROUND|Earth||1
+GROWTH|Increase||1
+HAMMER|Nail hitter|1f528|1
+HEALTH|Wellness||1
+HELMET|Head guard|26d1|1
+HIDDEN|Secret||1
+HOLDER|Container||1
+HONEST|Truthful||1
+INSECT|Bug||1
+JACKET|Short coat||1
+JUNGLE|Rain forest||1
+LEADER|Head||1
+LETTER|Mail note|2709|1
+LIQUID|Fluid||1
+LITTLE|Small||1
+MARKET|Bazaar||1
+MEMORY|Recall||1
+MIDDLE|Halfway point||1
+MINUTE|Sixty seconds||1
+MOTHER|Female parent||1
+NATURE|Wildlife||1
+NEEDLE|Sewing pin||1
+NUMBER|Digit||1
+OFFICE|Workplace|1f3e2|1
+ORANGE|Citrus fruit|1f34a|1
+PALACE|Royal home||1
+PARENT|Father or mother||1
+PEOPLE|Persons||1
+PERSON|Human||1
+PLANET|Orbits a star|1fa90|1
+POCKET|Trouser pouch||1
+POLICE|Law officers|1f46e|1
+PRINCE|King's son|1f934|1
+PUZZLE|Brain teaser|1f9e9|1
+RABBIT|Bunny|1f430|1
+REASON|Cause||1
+RECORD|Best ever||1
+REPAIR|Fix||1
+RESULT|Outcome||1
+RIBBON|Gift tie|1f380|1
+SCHOOL|Class place|1f3eb|1
+SEASON|Summer, e.g.||1
+SECRET|Hidden fact|1f92b|1
+SHADOW|Dark shape||1
+SHOWER|Rain wash|1f6bf|1
+SIGNAL|Sign||1
+SILVER|Shiny metal||1
+SIMPLE|Easy||1
+SINGER|Vocalist|1f3a4|1
+SISTER|Female sibling||1
+SMOOTH|Even||1
+SPIRIT|Soul||1
+SPRING|Season of bloom||1
+SQUARE|Four sides||1
+STREET|Road||1
+STRONG|Powerful||1
+SUMMER|Hot season||1
+SUNSET|Dusk view|1f307|1
+SUPPER|Late meal||1
+SWITCH|On-off||1
+TALENT|Gift||1
+TEACHER|School guide|1f9d1|1
+TEMPLE|Holy building|1f6d5|1
+TICKET|Entry pass||1
+TOILET|Bathroom bowl|1f6bd|1
+TRAVEL|Journey||1
+TUNNEL|Underground way||1
+TWENTY|Score||1
+VALLEY|Low land||1
+WALLET|Money holder|1f45b|1
+WEALTH|Riches||1
+WINNER|Champion||1
+WINTER|Cold season||1
+WIZARD|Spell caster|1f9d9|1
+WONDER|Marvel||1
+YELLOW|Sunny hue||1
+BALLOON|Party float|1f388|1
+BATTERY|Power cell|1f50b|1
+CAPTAIN|Ship leader||1
+CARTOON|Animated film||1
+CHAMPION|Winner||1
+COUNTRY|Nation||1
+CRYSTAL|Clear gem||1
+DIAMOND|Hardest gem|1f48e|1
+DISEASE|Illness||2
+EVENING|Late day||1
+FASHION|Style||1
+FREEDOM|Liberty||1
+GALLERY|Art hall||1
+HISTORY|Past events||1
+HOLIDAY|Day off||1
+JOURNEY|Trip||1
+KITCHEN|Cook room||1
+LIBRARY|Book place||1
+MACHINE|Device||1
+MESSAGE|Note||1
+MORNING|Early day|1f305|1
+PICTURE|Image|1f5bc|1
+PROBLEM|Trouble||1
+PRESENT|Gift||1
+PRINCESS|King's daughter|1f478|1
+RAINBOW|Sky arc|1f308|1
+SCIENCE|Lab study|1f52c|1
+SOLDIER|Army member||1
+STATION|Train stop|1f689|1
+STUDENT|Learner||1
+TEACHER|Educator||1
+THOUGHT|Idea||1
+TONIGHT|This evening||1
+TRAFFIC|Road jam|1f6a6|1
+UNIFORM|School dress||1
+VILLAGE|Small town||1
+WEATHER|Rain or shine|26c5|1
+WEEKEND|Sat and Sun||1

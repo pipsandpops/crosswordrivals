@@ -1,0 +1,330 @@
+# WORD|clue|emoji|tier   (tier 1 = everyday words, 2 = a little harder). Clues are kept short to fit in a cell.
+CAT|Purring pet|1f408|1
+DOG|Barking pet|1f415|1
+COW|Gives milk|1f404|1
+PIG|Oinking animal|1f416|1
+HEN|Egg layer|1f414|1
+OWL|Night bird|1f989|1
+BEE|Honey maker|1f41d|1
+ANT|Tiny worker|1f41c|1
+BAT|Flying mammal|1f987|1
+FOX|Sly animal|1f98a|1
+RAT|Big mouse|1f400|1
+YAK|Hairy ox|1f403|2
+APE|Big monkey|1f98d|1
+EEL|Slippery fish||2
+EMU|Big bird||2
+ELK|Large deer||2
+GNU|Wildebeest||2
+LION|King of beasts|1f981|1
+BEAR|Honey lover|1f43b|1
+WOLF|Howling animal|1f43a|1
+DEER|Has antlers|1f98c|1
+DUCK|Quacker|1f986|1
+FROG|Hopping croaker|1f438|1
+FISH|Swims in water|1f41f|1
+GOAT|Bearded animal|1f410|1
+LAMB|Young sheep|1f411|1
+MULE|Horse cross||2
+SEAL|Ocean mammal|1f9ad|1
+SWAN|Graceful bird|1f9a2|1
+CRAB|Sideways walker|1f980|1
+MOTH|Night flyer||1
+WASP|Stinging insect||2
+TOAD|Warty hopper||2
+HARE|Fast rabbit||2
+DOVE|Peace bird|1f54a|1
+CROW|Black bird||1
+HAWK|Bird of prey||2
+KIWI|Flightless bird||2
+PUMA|Mountain cat||2
+TIGER|Striped cat|1f405|1
+HORSE|Racing animal|1f40e|1
+ZEBRA|Striped horse|1f993|1
+CAMEL|Desert animal|1f42a|1
+SHEEP|Wool giver|1f411|1
+MOUSE|Cheese lover|1f401|1
+SNAKE|Slithers|1f40d|1
+SHARK|Ocean hunter|1f988|1
+WHALE|Huge sea mammal|1f40b|1
+EAGLE|National bird|1f985|1
+PANDA|Bamboo eater|1f43c|1
+KOALA|Tree hugger|1f428|1
+OTTER|River swimmer|1f9a6|1
+SKUNK|Smelly animal|1f9a8|2
+LLAMA|Andes animal|1f999|1
+HIPPO|River horse|1f99b|1
+RHINO|Horned beast|1f98f|1
+SLOTH|Slow mover|1f9a5|1
+BISON|Prairie ox|1f9ac|2
+GECKO|Small lizard||2
+HERON|Wading bird||2
+STORK|Baby bringer||2
+ROBIN|Red-breast bird||2
+RAVEN|Black bird||2
+TROUT|River fish||2
+SQUID|Has tentacles|1f991|1
+SNAIL|Slow crawler|1f40c|1
+CAMEL|Has a hump|1f42a|1
+MONKEY|Banana lover|1f412|1
+RABBIT|Long ears|1f407|1
+TURTLE|Shell carrier|1f422|1
+PARROT|Talking bird|1f99c|1
+DONKEY|Braying animal|1f434|2
+SPIDER|Web spinner|1f577|1
+JAGUAR|Spotted cat||2
+GIRAFFE|Longest neck|1f992|1
+PENGUIN|Ice bird|1f427|1
+DOLPHIN|Smart swimmer|1f42c|1
+OCTOPUS|Eight arms|1f419|1
+CHICKEN|Farm bird|1f413|1
+LOBSTER|Red claws|1f99e|1
+PEACOCK|Fancy tail|1f99a|1
+HAMSTER|Pet rodent|1f439|1
+ELEPHANT|Has a trunk|1f418|1
+KANGAROO|Pouch hopper|1f998|1
+BUTTERFLY|Pretty flyer|1f98b|1
+APPLE|Red fruit|1f34e|1
+PEAR|Bell fruit|1f350|1
+PLUM|Purple fruit||1
+LIME|Green citrus||1
+KIWI|Fuzzy fruit|1f95d|1
+FIG|Sweet fruit||2
+DATE|Palm fruit||2
+LEMON|Sour fruit|1f34b|1
+MANGO|King of fruits|1f96d|1
+GRAPE|Vine fruit|1f347|1
+MELON|Big juicy fruit|1f348|1
+PEACH|Fuzzy fruit|1f351|1
+BERRY|Small fruit||1
+OLIVE|Oil fruit|1fad2|2
+BANANA|Yellow fruit|1f34c|1
+CHERRY|Red little fruit|1f352|1
+ORANGE|Citrus fruit|1f34a|1
+PAPAYA|Tropical fruit||2
+COCONUT|Hard nut|1f965|1
+AVOCADO|Guacamole fruit|1f951|2
+PINEAPPLE|Spiky fruit|1f34d|1
+STRAWBERRY|Red berry|1f353|1
+CORN|Maize|1f33d|1
+BEAN|Legume|1fad8|1
+PEA|Green pod seed||1
+YAM|Sweet tuber||2
+OAT|Cereal grain||2
+RICE|Asian grain|1f35a|1
+LEEK|Onion cousin||2
+KALE|Leafy green||2
+BEET|Red root||2
+ONION|Makes you cry|1f9c5|1
+GARLIC|Strong bulb|1f9c4|1
+CARROT|Orange root|1f955|1
+POTATO|Spud|1f954|1
+TOMATO|Red vegetable|1f345|1
+PEPPER|Spicy pod|1fad1|1
+CELERY|Crunchy stalk||2
+PUMPKIN|Halloween squash|1f383|1
+CABBAGE|Leafy head||2
+SPINACH|Popeye's food||2
+BROCCOLI|Green vegetable|1f966|1
+MUSHROOM|Fungus|1f344|1
+CUCUMBER|Salad slice|1f952|1
+BREAD|Baked loaf|1f35e|1
+CAKE|Birthday treat|1f370|1
+PIE|Baked dessert|1f967|1
+TEA|Hot drink|1f375|1
+JAM|Fruit spread||1
+EGG|Hen gives it|1f95a|1
+HAM|Pork meat||1
+BUN|Small bread||1
+SOUP|Hot bowl|1f372|1
+MILK|White drink|1f95b|1
+SALT|Table seasoning|1f9c2|1
+MEAT|Butcher sells||1
+TACO|Mexican food|1f32e|1
+SODA|Fizzy drink||1
+CORN|Popcorn source|1f33d|1
+HONEY|Bee product|1f36f|1
+PIZZA|Italian pie|1f355|1
+PASTA|Noodles||1
+SUGAR|Sweetener||1
+FLOUR|Baking powder||1
+JUICE|Fruit drink|1f9c3|1
+TOAST|Browned bread||1
+SALAD|Green dish|1f957|1
+CANDY|Sugary treat|1f36c|1
+BAGEL|Ring bread|1f96f|2
+CURRY|Spicy dish|1f35b|1
+SUSHI|Raw fish dish|1f363|1
+STEAK|Beef cut|1f969|1
+WATER|H2O|1f4a7|1
+COFFEE|Morning drink|2615|1
+CHEESE|Mouse snack|1f9c0|1
+BUTTER|On toast|1f9c8|1
+COOKIE|Small sweet bake|1f36a|1
+WAFFLE|Grid breakfast|1f9c7|2
+NOODLE|Ramen strand|1f35c|1
+POPCORN|Movie snack|1f37f|1
+SANDWICH|Lunch bread|1f96a|1
+PANCAKE|Flat breakfast|1f95e|1
+CHOCOLATE|Cocoa treat|1f36b|1
+SUN|Day star|2600|1
+SKY|Blue above||1
+SEA|Salty water|1f30a|1
+MUD|Wet dirt||1
+FOG|Thick mist|1f32b|1
+ICE|Frozen water|1f9ca|1
+DEW|Morning drops||2
+ASH|Fire remains||2
+BAY|Coastal inlet||2
+OAK|Acorn tree||1
+ELM|Shade tree||2
+FIR|Christmas tree||2
+IVY|Climbing plant||2
+STAR|Night twinkle|2b50|1
+MOON|Night light|1f319|1
+RAIN|Falls from clouds|1f327|1
+SNOW|White flakes|2744|1
+WIND|Moving air|1f32c|1
+LAKE|Inland water||1
+HILL|Small mountain||1
+ROCK|Stone||1
+SAND|Beach grains||1
+TREE|Has leaves|1f333|1
+LEAF|Green on tree|1f343|1
+ROSE|Red flower|1f339|1
+LILY|White flower||1
+WAVE|Sea swell|1f30a|1
+CAVE|Rock hollow||1
+POND|Small lake||1
+SOIL|Earth||1
+SEED|Plant starter|1f331|1
+FIRE|Burning flame|1f525|1
+DUST|Fine dirt||1
+GLOW|Soft light||1
+CLOUD|Sky fluff|2601|1
+STORM|Bad weather|1f329|1
+RIVER|Flowing water||1
+OCEAN|Big sea||1
+BEACH|Sandy shore|1f3d6|1
+EARTH|Our planet|1f30d|1
+GRASS|Lawn green||1
+TULIP|Dutch flower|1f337|1
+DAISY|White flower|1f33c|1
+LOTUS|Water flower|1fab7|2
+CACTUS|Desert plant|1f335|1
+ISLAND|Land in sea|1f3dd|1
+FOREST|Many trees|1f332|1
+FLOWER|Bloom|1f338|1
+GARDEN|Plant patch||1
+DESERT|Sandy land|1f3dc|1
+VOLCANO|Erupts lava|1f30b|1
+RAINBOW|Sky arc|1f308|1
+THUNDER|Storm boom||1
+SUNFLOWER|Tall yellow bloom|1f33b|1
+MOUNTAIN|Tall peak|26f0|1
+CAR|Has four wheels|1f697|1
+BUS|Public ride|1f68c|1
+VAN|Delivery car|1f690|1
+CAB|Taxi||1
+JET|Fast plane||1
+SHIP|Big boat|1f6a2|1
+BOAT|Sails water|26f5|1
+TAXI|Yellow car|1f695|1
+TRAM|Street train|1f68b|2
+BIKE|Two wheels|1f6b2|1
+ROAD|Street||1
+TRUCK|Big goods vehicle|1f69a|1
+TRAIN|Runs on rails|1f686|1
+PLANE|Flies in sky|2708|1
+ROCKET|Goes to space|1f680|1
+TICKET|Travel pass|1f39f|1
+SCOOTER|Kick ride|1f6f4|2
+TRACTOR|Farm vehicle|1f69c|1
+BICYCLE|Pedal ride|1f6b2|1
+HOUSE|Home building|1f3e0|1
+DOOR|Way in|1f6aa|1
+ROOF|House top||1
+WALL|Room side||1
+ROOM|House space||1
+BED|Sleep here|1f6cf|1
+SOFA|Couch|1f6cb|1
+DESK|Work table||1
+LAMP|Light giver||1
+SINK|Wash basin||1
+BATH|Tub soak|1f6c1|1
+KEY|Opens locks|1f511|1
+LOCK|Needs a key|1f512|1
+CUP|Tea holder||1
+MUG|Big cup||1
+POT|Cooking pan||1
+PAN|Frying tool||1
+FORK|Has prongs|1f374|1
+SPOON|Soup tool|1f944|1
+KNIFE|Cutter|1f52a|1
+PLATE|Dinner dish||1
+BOWL|Cereal dish|1f963|1
+CHAIR|Seat|1fa91|1
+TABLE|Eat at it||1
+CLOCK|Tells time|1f570|1
+PHONE|Call device|1f4f1|1
+RADIO|Plays music|1f4fb|1
+CANDLE|Wax light|1f56f|1
+MIRROR|Reflects you|1fa9e|1
+WINDOW|Glass opening|1fa9f|1
+PILLOW|Head rest||1
+BLANKET|Bed cover||1
+BASKET|Woven holder|1f9fa|1
+BUCKET|Pail|1faa3|1
+LADDER|Climb it|1fa9c|1
+CAMERA|Takes photos|1f4f7|1
+LAPTOP|Portable PC|1f4bb|1
+BOOK|Read it|1f4d6|1
+PEN|Ink writer|1f58a|1
+INK|Pen fluid||1
+MAP|Shows the way|1f5fa|1
+BAG|Carry-all|1f45c|1
+BOX|Cardboard case|1f4e6|1
+HAT|Head wear|1f452|1
+CAP|Peaked hat|1f9e2|1
+TIE|Neck wear|1f454|1
+SOCK|Foot cover|1f9e6|1
+SHOE|Foot wear|1f45f|1
+BOOT|Tall shoe|1f462|1
+COAT|Warm jacket|1f9e5|1
+SHIRT|Top wear|1f455|1
+DRESS|Frock|1f457|1
+SKIRT|Lady's garment||1
+JEANS|Denim wear|1f456|1
+SCARF|Neck warmer|1f9e3|1
+GLOVE|Hand wear|1f9e4|1
+CROWN|King's hat|1f451|1
+RING|Finger jewel|1f48d|1
+WATCH|Wrist clock|231a|1
+UMBRELLA|Rain shield|2602|1
+BALL|Round toy|26bd|1
+KITE|Flies on string|1fa81|1
+DOLL|Toy figure||1
+GAME|Play it||1
+TOY|Child's plaything|1f9f8|1
+DRUM|Beat it|1f941|1
+FLUTE|Wind instrument|1fa88|2
+PIANO|Keyboard|1f3b9|1
+GUITAR|Six strings|1f3b8|1
+VIOLIN|Bow instrument|1f3bb|1
+TRUMPET|Brass horn|1f3ba|1
+SONG|Sung music||1
+BAND|Music group||1
+NOTE|Music sign|1f3b5|1
+DANCE|Move to music||1
+MOVIE|Film|1f3ac|1
+TENNIS|Racket sport|1f3be|1
+SOCCER|Sport with goals|26bd|1
+GOLF|Club sport|26f3|1
+CHESS|King and queen|265f|1
+DICE|Rolled cubes|1f3b2|1
+CARD|Playing piece|1f0cf|1
+GOAL|Score it||1
+TEAM|Players group||1
+RACE|Speed contest||1
+MEDAL|Prize disc|1f3c5|1
+TROPHY|Winner's cup|1f3c6|1

@@ -1,0 +1,434 @@
+# more everyday words (no pictures)
+ACT|Do something||1
+ADD|Plus||1
+AGE|Years old||1
+AGO|In the past||1
+AID|Help||1
+AIM|Target||1
+AIR|We breathe it||1
+ALL|Every one||1
+ARM|Limb||1
+ART|Painting||1
+ASK|Question||1
+BAD|Not good||1
+BIG|Large||1
+BIT|Small piece||1
+BOY|Young man||1
+BUY|Purchase||1
+CRY|Weep||1
+CUT|Slice||1
+DAY|Not night||1
+DIG|Use a spade||1
+DRY|Not wet||1
+EAR|Hearing organ|1f442|1
+EAT|Have a meal||1
+END|Finish||1
+EYE|Seeing organ|1f441|1
+FAN|Cooling device||1
+FAR|Not near||1
+FEW|Not many||1
+FIT|Healthy||1
+FLY|Soar||1
+FUN|Enjoyment||1
+GAS|Fuel||1
+GET|Receive||1
+GOD|Deity||2
+GUM|Chewy sweet||1
+GYM|Workout place||1
+HIT|Strike||1
+HOT|Very warm||1
+HUG|Embrace|1fac2|1
+ICY|Very cold||1
+JOB|Work||1
+JOY|Happiness||1
+KID|Child||1
+LAW|Rule||1
+LAY|Put down||1
+LEG|Limb||1
+LET|Allow||1
+LID|Pot cover||1
+LIE|Not the truth||1
+LIP|Mouth part|1f444|1
+LOG|Tree trunk||1
+LOT|Plenty||1
+LOW|Not high||1
+MAN|Adult male||1
+MAY|Spring month||1
+MIX|Blend||1
+NAP|Short sleep||1
+NET|Fishing mesh||1
+NEW|Not old||1
+NOD|Yes gesture||1
+NOW|At present||1
+NUT|Squirrel food|1f95c|1
+ODD|Strange||1
+OFF|Not on||1
+OIL|Cooking fat||1
+OLD|Not new||1
+ONE|Single||1
+OUR|Belongs to us||1
+OUT|Not in||1
+OWN|Possess||1
+PAY|Give money||1
+PET|Home animal||1
+PIN|Sharp clip||1
+PUT|Place||1
+RAW|Uncooked||1
+RED|Ruby hue||1
+RIB|Chest bone||1
+ROW|Line up||1
+RUB|Massage||1
+RUN|Sprint||1
+SAD|Unhappy||1
+SAW|Wood cutter|1fa9a|1
+SAY|Speak||1
+SET|Group||1
+SEW|Use a needle||1
+SHY|Bashful||1
+SIT|Take a seat||1
+SIX|Half a dozen||1
+SKI|Snow sport|1f3bf|1
+SON|Male child||1
+SPY|Secret agent||1
+TAN|Sun-kissed hue||1
+TAP|Water outlet||1
+TEN|Two fives||1
+TIN|Can metal||1
+TIP|Pointed end||1
+TOE|Foot digit||1
+TON|Heavy weight||1
+TOP|Highest part||1
+TRY|Attempt||1
+TWO|Pair||1
+USE|Make use of||1
+WAR|Battle||1
+WAX|Candle stuff||1
+WAY|Path||1
+WEB|Spider's net|1f578|1
+WET|Soaked||1
+WIN|Be first||1
+WIT|Cleverness||2
+YES|Not no||1
+YET|Still||1
+ZIP|Fastener||1
+ZOO|Animal park||1
+ABLE|Capable||1
+ACHE|Pain||1
+ACID|Sour liquid||2
+ALSO|Too||1
+ARCH|Curved gate||2
+AREA|Region||1
+ARMY|Soldiers||1
+AUNT|Uncle's wife||1
+AWAY|Not here||1
+BABY|Infant|1f476|1
+BACK|Rear||1
+BAKE|Oven cook||1
+BALD|Hairless||1
+BANK|Money place|1f3e6|1
+BARN|Farm shed||1
+BASE|Bottom||1
+BEAM|Light ray||2
+BEAT|Defeat||1
+BELL|Ring-ring|1f514|1
+BELT|Waist strap||1
+BEND|Curve||1
+BEST|Top quality||1
+BILL|Invoice||1
+BIRD|Feathered flyer|1f426|1
+BITE|Chomp||1
+BLUE|Sky hue||1
+BOLD|Brave||1
+BONE|Skeleton part|1f9b4|1
+BORN|Came to life||1
+BOSS|Manager||1
+BOTH|The two||1
+BOWL|Deep dish||1
+BURN|Scorch||1
+BUSY|Occupied||1
+CALM|Peaceful||1
+CAMP|Tent site||1
+CASH|Money|1f4b5|1
+CAST|Throw||2
+CELL|Small room||2
+CHIN|Below the mouth||1
+CITY|Big town|1f3d9|1
+CLAP|Applaud|1f44f|1
+CLUB|Society||1
+COAL|Black fuel||1
+CODE|Secret signs||1
+COLD|Chilly||1
+COOK|Chef||1
+COOL|Chilly||1
+COPY|Duplicate||1
+CORE|Heart of an apple||1
+COST|Price||1
+CREW|Ship staff||1
+CROP|Harvest||2
+CUBE|Six faces||1
+CURE|Heal||1
+CUTE|Adorable||1
+DARK|No light||1
+DEAL|Agreement||1
+DEAR|Loved||1
+DEEP|Not shallow||1
+DIAL|Clock face||2
+DIET|Eating plan||1
+DIRT|Soil||1
+DISH|Plate||1
+DIVE|Jump in water||1
+DOWN|Not up||1
+DRAW|Sketch||1
+DROP|Let fall||1
+DUSK|Evening||2
+EACH|Every||1
+EASY|Not hard||1
+EDGE|Border||1
+EVEN|Level||1
+EXIT|Way out||1
+FACE|Front of head||1
+FACT|Truth||1
+FAIR|Just||1
+FALL|Tumble||1
+FAME|Celebrity||1
+FARM|Crop land||1
+FAST|Quick||1
+FEAR|Fright||1
+FEEL|Sense||1
+FILM|Movie||1
+FIND|Discover||1
+FINE|Okay||1
+FIRM|Solid||1
+FLAG|Banner|1f6a9|1
+FLAT|Level||1
+FOAM|Bubbles||2
+FOLD|Crease||1
+FOOD|Meal||1
+FOOT|Below the leg|1f9b6|1
+FORM|Shape||1
+FREE|No cost||1
+FUEL|Engine food||1
+FULL|Filled||1
+GATE|Fence door||1
+GEAR|Cog||1
+GIFT|Present|1f381|1
+GIRL|Young lady||1
+GIVE|Hand over||1
+GLAD|Happy||1
+GLUE|Sticky paste||1
+GOLD|Yellow metal||1
+GOOD|Fine||1
+GRIN|Big smile||1
+GRIP|Hold tight||2
+HAIR|On your head||1
+HALF|One of two||1
+HALL|Big room||1
+HAND|Five fingers|270b|1
+HARD|Not soft||1
+HEAD|Top of body||1
+HEAL|Cure||1
+HEAT|Warmth||1
+HELP|Assist||1
+HERO|Brave person||1
+HIDE|Conceal||1
+HIGH|Tall||1
+HOLD|Grasp||1
+HOLE|Gap||1
+HOME|Where you live||1
+HOOK|Bent hanger||1
+HOPE|Wish||1
+HORN|Car honk|1f4ef|1
+HOUR|Sixty minutes||1
+HUGE|Very big||1
+HUNT|Search||1
+IDEA|Thought|1f4a1|1
+INCH|Small length||1
+IRON|Press clothes||1
+JAIL|Prison||2
+JOKE|Funny tale||1
+JUMP|Leap||1
+JUNE|Summer month||1
+JURY|Court panel||2
+JUST|Fair||1
+KEEP|Retain||1
+KICK|Boot a ball||1
+KIND|Nice||1
+KING|Ruler||1
+KISS|Smooch|1f48b|1
+KNEE|Leg joint||1
+KNOT|Tied loop||1
+LADY|Woman||1
+LAND|Ground||1
+LAST|Final||1
+LATE|Not on time||1
+LAZY|Idle||1
+LEAD|Guide||1
+LEFT|Not right||1
+LESS|Not more||1
+LIFE|Living||1
+LIFT|Raise||1
+LINE|Stroke||1
+LINK|Connect||1
+LIST|Items in order||1
+LIVE|Exist||1
+LOAD|Cargo||1
+LOAN|Borrowed money||1
+LONG|Not short||1
+LOOK|See||1
+LOOP|Circle||1
+LOUD|Noisy||1
+LOVE|Adore|2764|1
+LUCK|Fortune||1
+MAIL|Post|1f4ec|1
+MAIN|Chief||1
+MAKE|Create||1
+MANY|Lots||1
+MASK|Face cover|1f3ad|1
+MEAL|Lunch||1
+MILD|Gentle||1
+MIND|Brain||1
+MINT|Fresh herb||1
+MISS|Fail to hit||1
+MOOD|Feeling||1
+MORE|Extra||1
+MOVE|Shift||1
+NAME|Your title||1
+NAVY|Dark blue||2
+NEAR|Close||1
+NECK|Head support||1
+NEED|Require||1
+NEST|Bird home|1fab9|1
+NEWS|Latest report|1f4f0|1
+NICE|Pleasant||1
+NINE|Three threes||1
+NOON|Midday||1
+NOSE|Smeller|1f443|1
+OPEN|Not shut||1
+OVEN|Baking box||1
+OVER|Above||1
+PACK|Bundle||1
+PAGE|Book sheet||1
+PAIN|Ache||1
+PAIR|Two||1
+PALM|Inside of the hand||1
+PARK|Green space||1
+PART|Piece||1
+PAST|Before now||1
+PATH|Track||1
+PEAK|Summit||1
+PICK|Choose||1
+PINK|Rosy||1
+PIPE|Tube||1
+PLAN|Scheme||1
+PLAY|Have fun||1
+PLUS|Add||1
+POEM|Verse||1
+POET|Verse writer||1
+POOL|Swim spot||1
+POOR|Not rich||1
+PORT|Ship dock||1
+POST|Mail||1
+PULL|Tug||1
+PURE|Clean||1
+PUSH|Shove||1
+QUIZ|Test||1
+RACK|Shelf||2
+RAIL|Train track||1
+RARE|Uncommon||1
+READ|Look at words||1
+REAL|True||1
+REST|Relax||1
+RICH|Wealthy||1
+RIDE|Travel on||1
+RISE|Go up||1
+RISK|Danger||1
+ROLE|Part||1
+ROLL|Turn over||1
+ROPE|Thick cord||1
+RULE|Law||1
+RUSH|Hurry||1
+SAFE|Secure||1
+SAIL|Boat cloth||1
+SALE|Discount||1
+SAME|Identical||1
+SAVE|Rescue||1
+SEAT|Chair||1
+SEND|Post||1
+SHOP|Store||1
+SHOW|Display||1
+SHUT|Closed||1
+SICK|Ill||1
+SIDE|Flank||1
+SIGN|Notice||1
+SILK|Fine fabric||1
+SING|Use voice||1
+SIZE|Measure||1
+SKIN|Body cover||1
+SLOW|Not fast||1
+SOAP|Wash bar|1f9fc|1
+SOFT|Not hard||1
+SORT|Kind||1
+SOUL|Spirit||1
+SPOT|Dot||1
+STAY|Remain||1
+STEP|Pace||1
+STOP|Halt|1f6d1|1
+SUIT|Formal wear||1
+SURE|Certain||1
+SWIM|Move in water||1
+TAIL|Dog wags it||1
+TAKE|Grab||1
+TALK|Chat||1
+TALL|High||1
+TAPE|Sticky strip||1
+TASK|Job||1
+TEAR|Rip||1
+TELL|Inform||1
+TENT|Camp shelter|26fa|1
+TEST|Exam||1
+TEXT|Message||1
+THIN|Slim||1
+TIDE|Sea rise||1
+TIME|Clock shows it||1
+TINY|Very small||1
+TOOL|Hammer, e.g.|1f528|1
+TOUR|Trip||1
+TOWN|Small city||1
+TRAP|Snare||1
+TRIP|Journey||1
+TRUE|Correct||1
+TUBE|Pipe||1
+TUNE|Melody||1
+TURN|Rotate||1
+TWIN|Double||1
+TYPE|Kind||1
+UNIT|One part||1
+USER|One who uses||1
+VASE|Flower jar||1
+VERY|Really||1
+VIEW|Scene||1
+VOTE|Election choice||1
+WAIT|Hold on||1
+WAKE|Stop sleeping||1
+WALK|Stroll||1
+WARM|Not cold||1
+WASH|Clean||1
+WEAK|Not strong||1
+WEEK|Seven days||1
+WELL|Water hole||1
+WEST|Sunset side||1
+WIDE|Broad||1
+WIFE|Married woman||1
+WILD|Untamed||1
+WINE|Grape drink|1f377|1
+WING|Bird arm||1
+WISE|Clever||1
+WISH|Hope||1
+WOOD|Timber|1fab5|1
+WOOL|Sheep coat|1f9f6|1
+WORD|Letters unit||1
+WORK|Job||1
+YARD|Garden||1
+YEAR|Twelve months||1
+ZERO|Nothing||1
+ZONE|Area||1

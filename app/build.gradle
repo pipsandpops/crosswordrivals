@@ -1,0 +1,62 @@
+plugins {
+    id 'com.android.application'
+}
+
+// Release signing comes from environment variables so the keystore never lives in the repo.
+def keystorePath = System.getenv('KEYSTORE_FILE')
+
+android {
+    namespace 'com.wordrivals.game'
+    compileSdk 36
+
+    defaultConfig {
+        applicationId 'com.crosswordrivals.app'  // permanent once published: change it BEFORE the first upload
+        minSdk 24                             // Google Play needs 24 or higher
+        targetSdk 36
+        versionCode 1                        // must go up by one for every Play upload
+        versionName '1.0.0'
+
+        // BEFORE RELEASE: replace with your own AdMob app ID (AdMob -> Apps -> App settings).
+        // This default is Google's public test ID, which shows test videos and earns nothing.
+        manifestPlaceholders = [admobAppId: 'ca-app-pub-3940256099942544~3347511713']
+    }
+
+    signingConfigs {
+        release {
+            if (keystorePath) {
+                storeFile file(keystorePath)
+                storePassword System.getenv('KEYSTORE_PASSWORD')
+                keyAlias System.getenv('KEY_ALIAS')
+                keyPassword System.getenv('KEY_PASSWORD')
+            }
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            if (keystorePath) {
+                signingConfig signingConfigs.release
+            }
+        }
+    }
+
+    // PlayMonetizer (Google Play Billing and AdMob) lives in its own folder so that builds made
+    // without Google's libraries can leave it out and fall back to the demo store.
+    sourceSets {
+        main.java.srcDirs += 'src/play/java'
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_11
+        targetCompatibility JavaVersion.VERSION_11
+    }
+}
+
+dependencies {
+    implementation platform('org.jetbrains.kotlin:kotlin-bom:2.1.0')     // keeps the Kotlin libraries these pull in on one version
+    implementation 'com.android.billingclient:billing:8.3.0'                 // Google Play purchases
+    implementation 'com.google.android.gms:play-services-ads:25.5.0'         // rewarded videos and full-screen adverts
+    implementation 'com.google.android.ump:user-messaging-platform:3.1.0'    // consent form for ads where required
+    implementation 'com.google.android.play:review:2.0.2'                    // in-app rating card
+}
